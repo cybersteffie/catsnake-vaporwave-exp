@@ -2,6 +2,8 @@
 
 ## catsnake vaporwave experience
 
+<img src="catsnake.jpg">
+
 vaporwave netart inspired experience created with unity and C#
 
 ### GAMEPLAY
