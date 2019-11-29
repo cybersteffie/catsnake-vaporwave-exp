@@ -1,4 +1,4 @@
-this was made as my time as a student at <a href="http://www.codechrysalis.io/">code chrysalis</a>.
+<div align="center">this was made as my time as a student at <a href="http://www.codechrysalis.io/">code chrysalis</a>.</div>
 
 # C A T / S N A K E
 ## vaporwave-inspired visual gaming experience
