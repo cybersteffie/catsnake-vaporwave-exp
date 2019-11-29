@@ -1,5 +1,7 @@
 # INTERACTIVE INTERNET TRASH
+
 ## catsnake vaporwave experience
+
 vaporwave netart inspired experience created with unity and C#
 
 ### GAMEPLAY
