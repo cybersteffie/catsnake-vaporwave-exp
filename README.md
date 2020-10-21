@@ -5,10 +5,11 @@
 
 <img src="catsnake.png">
 
-vaporwave netart inspired gaming experience created with C# & Unity Game Engine
+vaporwave/webtrash/netart inspired experience created with C# & unity game engine
 
 ### GAMEPLAY
-**OBJECTIVE:** fetch boba, offer boba to vaporwave god and assist in the building of a boba tower.
+
+**OBJECTIVE:** fetch boba, offer boba to vaporwave god and assist in the building of a heavenly boba tower.
 
 `UP` - high jump/fly
 
